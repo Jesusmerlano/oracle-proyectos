@@ -1,6 +1,6 @@
 # oracle-systems-projects
 
-Repositorio preparado para la vacante de Ingeniero(a) de Sistemas — proyectos demostrando uso de Oracle.
+Repositorio — proyectos demostrando uso de Oracle.
 
 Estructura:
 - 01-crud-oracle: CRUD básico con Java (JDBC) y scripts SQL.
