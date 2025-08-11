@@ -1,0 +1,3 @@
+-- EJEMPLO SEGURO con bind parameter
+-- En JDBC usar PreparedStatement:
+-- SELECT * FROM productos WHERE nombre = ?
